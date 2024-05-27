@@ -1,0 +1,4 @@
+gradio==4.31.5
+python-dotenv
+streamlit
+google-generativeai

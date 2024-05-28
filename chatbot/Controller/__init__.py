@@ -1,2 +1,1 @@
-from .ImageClassification import classify_image
-from .ChatRespose import get_model_respose
+from .ChatRespose import chat_router
